@@ -1,4 +1,4 @@
-#Prime number calculator for friendly bassoon 
+#Prime number determiner 
 
 def is_prime(x): 
 	prime = True
